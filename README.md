@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KarameiOmid
-- 👀 I’m interested in .Net Programming and mobile apps using Flutter 
+- 👀 I’m interested in .Net Programming and PWA 
 - 🌱 I’m a senior full stack .net developer
 - 💞️ I’m looking to collaborate on web and mobile applications
 - 📫 How to reach me: karamei.omid@gmail.com
