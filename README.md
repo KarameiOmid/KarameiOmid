@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KarameiOmid
+- 👋 Hi, I’m Omid Karami
 - 👀 I’m interested in .Net Programming and PWA 
 - 🌱 I’m a senior full stack .net developer
 - 💞️ I’m looking to collaborate on web and mobile applications
